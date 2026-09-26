@@ -24,11 +24,10 @@ iTantra is an offline-first, speech-driven communication system built for disast
 [▶️ Watch Project Demo](https://youtu.be/nM24F2wmXgY)
 
 ## How to Run
+
 1. Clone the repository: `git clone [YOUR_REPO_LINK]`
-2. Open the project in Android Studio and let Gradle sync dependencies.
-3. Connect an Android device (Android 8+) or start an emulator.
-4. Build and run the app; grant microphone and Bluetooth/Wi-Fi permissions when prompted.
-5. On two devices, open the app as Sender and Receiver to test the full speech-to-radio-to-speech pipeline.
+2. Open `index.html` in any modern browser — no build step required.
+3. The prototype demonstrates the product concept, UI flow, and architecture. It uses browser-based speech APIs to simulate the on-device pipeline described in the Technical Approach section; it is not the final offline Android build.
 
 ## Team Members
 - [Chandini K J]
